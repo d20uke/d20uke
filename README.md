@@ -1,6 +1,6 @@
 ### Olá, seja muito bem vindo
 
-:computer: Sou um desenvolvedor Full-Stac
+🎨 Sou um desenvolvedor front-end
 
 ![d20uke GitHub stats](https://github-readme-stats.vercel.app/api?username=d20uke&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d20uke&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
