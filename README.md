@@ -1,6 +1,8 @@
-### Olá, seja muito bem vindo
+### Olá, meu nome é Diego, seja muito bem vindo
 
-🎨 Sou um desenvolvedor front-end
+✨ Almejo ser um dos melhores desenvolvedores do Brasil
+🖥️ Amante de animes, mangás e tudo que envolva cultura nerd em geral
+🎨 Atualmente estou me aprofundando no universo front-end, mas tenho experiência já com desenvolvimento back-end
 
 ![d20uke GitHub stats](https://github-readme-stats.vercel.app/api?username=d20uke&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d20uke&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
